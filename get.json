@@ -3,6 +3,7 @@
       {
         "version": "1.0.1",
         "newdate": "10-02-2012",
+        "autoupdate": "update",
         "api": [
             "3SP1-D7AG-91ZJ-L314",
             "R36F-66Q8-2B5N-BV09",
