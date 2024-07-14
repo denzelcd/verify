@@ -3,40 +3,11 @@
       {
         "version": "1.0.1",
         "newdate": "10-02-2012",
-        "autoupdate": "update",
-        "api": [
-            "3SP1-D7AG-91ZJ-L314",
-            "R36F-66Q8-2B5N-BV09",
-            "3LQ9-EM02-ZK2T-DN59",
-            "Q1SG-5K07-WUHS-T7NB",
-            "DHJ8-82D1-988B-S218",
-            "G4GT-N5KO-P88Y-ZKQ2",
-            "2Q4J-0X28-6022-W854",
-            "0KPM-07RF-5EWE-GQF1",
-            "V22S-L707-R37A-009M",
-            "50WU-73L7-YHNL-10AY",
-            "79X5-549Z-U162-Q2GU",
-            "9AR9-DNT6-FMZE-Z988",
-            "3H33-996I-Y9FT-2B38",
-            "7Z9E-05N0-7VGO-952O",
-            "38H3-U4VX-2SUL-662E",
-            "3892-535G-X407-00RQ",
-            "H140-8X93-QS9C-9JKM",
-            "78Q7-8R8B-0KAZ-A0R5",
-            "0PEG-36M0-47LU-F3KK",
-            "BLKN-QW29-RPB6-JW78",
-            "75H3-BUF1-MCAK-DO0K",
-            "LSK5-67I2-20K5-353L",
-            "62U6-52X0-96NO-3L8L",
-            "02CX-DF15-23V6-Y35L",
-            "332H-3MYC-0794-464A",
-            "5227-683N-82L2-359I",
-            "06T4-8XB6-UD2P-4H83",
-            "U1Y8-DE12-PL03-P14S",
-            "8P5O-GJPI-70NF-2RB4",
-            "6A4H-XZ3Z-6Z1X-VOL6",
-            "O718-6MKK-5Q16-1384",
-            "YMZU-M6KD-P844-O2Q9"
+        "autoupdate": "disable",
+        "usertoken": [
+            {
+              "id": "key"
+            }
         ]
       }
     ]
