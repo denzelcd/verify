@@ -1,24 +1,24 @@
 {
     "App": [
-      {
-        "version": "1.0.1",
-        "newdate": "10-02-2012",
-        "autoupdate": "disable",
-        "usertoken": [
-          {
-            "2208V8502c682618": "UTDT-U6V5-4QFH-O796"
-          }
-        ],
-        "useremail": [
-          {
-            "email": "id"
-          }
-        ],
-        "Install": [
-          {
-            "email": "date"
-          }
-        ]
-      }
+        {
+            "version": "1.0.1",
+            "newdate": "10-02-2012",
+            "autoupdate": "disable",
+            "usertoken": [
+                {
+                    "2208V8502c682618": "L6B7-71EQ-Y4X0-655G"
+                }
+            ],
+            "useremail": [
+                {
+                    "email": "id"
+                }
+            ],
+            "Install": [
+                {
+                    "email": "date"
+                }
+            ]
+        }
     ]
 }
