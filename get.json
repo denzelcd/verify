@@ -5,11 +5,20 @@
         "newdate": "10-02-2012",
         "autoupdate": "disable",
         "usertoken": [
-            {
-              "ids": "key"
-            }
+          {
+            "2208V8502c682618": "UTDT-U6V5-4QFH-O796"
+          }
+        ],
+        "useremail": [
+          {
+            "email": "id"
+          }
+        ],
+        "Install": [
+          {
+            "email": "date"
+          }
         ]
       }
     ]
-  }
-
+}
