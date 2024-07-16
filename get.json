@@ -1,22 +1,22 @@
 {
     "App": [
         {
-            "version": "1.0.1",
-            "newdate": "10-02-2012",
+            "version": "1.9.1",
+            "newdate": "10/02/2012",
             "autoupdate": "disable",
             "usertoken": [
                 {
-                    "2208V8502c682618": "7DLR-0929-377D-CT79"
+                    "tokon": "id"
                 }
             ],
             "useremail": [
                 {
-                    "admin05@gmail.com": "2208V8502c682618"
+                    "email": "getid"
                 }
             ],
             "Install": [
                 {
-                    "admin05@gmail.com": "New= 06:51:1116/07/2024 Old= 16/07/2024=05:16:27"
+                    "email": "getid"
                 }
             ]
         }
