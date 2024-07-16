@@ -1,1 +1,22 @@
-z
+{
+  "App": [
+    {
+      "Version": {
+        "version": "1.9.1"
+      },
+      "Install": {
+        "date": "16/07/2024",
+        "time": "05:16:27"
+      },
+      "userdata": {
+        "useremail": "admin05@gmail.com",
+        "model": "id",
+        "token": "token"
+      },
+      "Admin": {
+        "email": "admin05@gmail.com",
+        "number": "861"
+      }
+    }
+  ]
+}
