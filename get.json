@@ -1,22 +1,22 @@
 {
     "App": [
         {
-            "version": "2.0.2",
+            "version": "1.9.8",
             "newdate": "06/04/2023",
             "autoupdate": "disable",
             "usertoken": [
                 {
-                    "2208V8502c682618": "N4HS-22VD-24JI-1ZHF"
+                    "id": "d"
                 }
             ],
             "useremail": [
                 {
-                    "admin06@gmail.com": "2208V8502c682618"
+                    "s": "f"
                 }
             ],
             "Install": [
                 {
-                    "admin06@gmail.com": "New= 06:53:38=18/07/2024 Old= 18/07/2024=06:45:36"
+                    "h": "y"
                 }
             ]
         }
