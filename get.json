@@ -1,8 +1,8 @@
 {
     "App": [
         {
-            "version": "1.9.8",
-            "newdate": "10/02/2012",
+            "version": "2.0.2",
+            "newdate": "06/04/2023",
             "autoupdate": "disable",
             "usertoken": [
                 {
