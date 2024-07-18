@@ -6,17 +6,17 @@
             "autoupdate": "disable",
             "usertoken": [
                 {
-                    "2208V8502c682618": "3RL0-CJ2R-K680-19F7"
+                    "id": "token"
                 }
             ],
             "useremail": [
                 {
-                    "admin05@gmail.com": "2208V8502c682618"
+                    "useremail": "userid"
                 }
             ],
             "Install": [
                 {
-                    "admin05@gmail.com": "New= 05:52:39=18/07/2024 Old= 18/07/2024=05:15:25"
+                    "useremail": "installdate"
                 }
             ]
         }
