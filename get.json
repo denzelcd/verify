@@ -23,7 +23,18 @@
                     },
                     "2208V8502c682618": {
                         "Id": "2208V8502c682618",
-                        "token": "J0F6-57S5-UQ97-773U"
+                        "token": "J0F6-57S5-UQ97-773U",
+                        "Email": "admin06@gmail.com",
+                        "Install": {
+                            "Date:": "21/07/2024",
+                            "Time": "05:02:46"
+                        },
+                        "Lastused": {
+                            "Date:": "",
+                            "Time": ""
+                        },
+                        "expire": "21/07/2025",
+                        "Views": 1
                     }
                 }
             ]
