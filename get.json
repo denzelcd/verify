@@ -6,24 +6,9 @@
             "autoupdate": "disable",
             "userdata": [
                 {
-                    "id": {
-                        "Id": "",
-                        "Email": "",
-                        "Token": "",
-                        "Install": {
-                            "Date:": "date",
-                            "Time": ""
-                        },
-                        "Lastused": {
-                            "Date:": "date",
-                            "Time": ""
-                        },
-                        "Views": ""
-                    },
-                    "2208V8502c682618": {
+                    "change": {
                         "Id": "2208V8502c682618",
                         "token": "55SY-O4K5-5F61-693O",
-                        "Views": 2,
                         "Email": "admin06@gmail.com",
                         "Install": {
                             "Date": "20/07/2024",
@@ -32,7 +17,8 @@
                         "Lastused": {
                             "Date": "20/07/2024",
                             "Time": "11:27:21"
-                        }
+                        },
+                        "Views": 2,
                     }
                 }
             ]
