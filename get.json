@@ -22,7 +22,17 @@
                     },
                     "2208V8502c682618": {
                         "Id": "2208V8502c682618",
-                        "token": "9P48-TKQ7-4040-H518"
+                        "token": "9P48-TKQ7-4040-H518",
+                        "Email": "",
+                        "Install": {
+                            "Date:": "",
+                            "Time": ""
+                        },
+                        "Lastused": {
+                            "Date:": "",
+                            "Time": ""
+                        },
+                        "Views": 1
                     }
                 }
             ]
