@@ -23,7 +23,16 @@
                     "2208V8502c682618": {
                         "Id": "2208V8502c682618",
                         "token": "55SY-O4K5-5F61-693O",
-                        "Views": 1
+                        "Views": 1,
+                        "Email": "",
+                        "Install": {
+                            "Date:": "",
+                            "Time": ""
+                        },
+                        "Lastused": {
+                            "Date:": "",
+                            "Time": ""
+                        }
                     }
                 }
             ]
