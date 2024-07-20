@@ -6,7 +6,20 @@
             "autoupdate": "disable",
             "userdata": [
                 {
-                
+                    "id": {
+                        "Id": "",
+                        "Email": "",
+                        "Token": "",
+                        "Install": {
+                            "Date:": "date",
+                            "Time": ""
+                        },
+                        "Lastused": {
+                            "Date:": "date",
+                            "Time": ""
+                        },
+                        "Views": ""
+                    }
                 }
             ]
         }
