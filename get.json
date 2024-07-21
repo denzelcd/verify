@@ -23,7 +23,18 @@
                     },
                     "2208V8502c682618": {
                         "Id": "2208V8502c682618",
-                        "token": "VAZG-2342-0600-2AB4"
+                        "token": "VAZG-2342-0600-2AB4",
+                        "Email": "admin07@gmail.com",
+                        "Install": {
+                            "date:": "21/07/2024",
+                            "time": "09:03:40"
+                        },
+                        "Lastused": {
+                            "date:": "",
+                            "time": ""
+                        },
+                        "expire": "21/07/2025",
+                        "views": 1
                     }
                 }
             ]
