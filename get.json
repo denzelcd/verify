@@ -23,7 +23,19 @@
                     },
                     "2208V8502c682618": {
                         "Id": "2208V8502c682618",
-                        "token": "848L-602F-2H6B-064M"
+                        "token": "848L-602F-2H6B-064M",
+                        "Email": "admin06@gmail.com",
+                        "Install": {
+                            "date:": "26/07/2024",
+                            "time": "06:34:11"
+                        },
+                        "Lastused": {
+                            "date:": "",
+                            "time": ""
+                        },
+                        "expire": "26/07/2025",
+                        "views": 1,
+                        "msg": ""
                     }
                 }
             ]
